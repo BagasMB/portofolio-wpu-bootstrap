@@ -1,0 +1,29 @@
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #d6afaf;
+}
+
+#galery {
+    background-color: #d6afaf;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+footer {
+    display: flex;
+    flex-basis: 40%;
+    justify-content: center;
+    position: relative;
+}
+
+footer a {
+    position: relative;
+    margin-left: 0.5rem;
+
+}
+
+.contact {
+    color: rgb(0, 0, 0);
+}
