@@ -1,3 +1,3 @@
 # bgsmhdka
 
-Hosted website visit : (https://bagasmb.github.io/portofolio-wpu-bootstrap/)
+Hosted website visit : <a href="https://bagasmb.github.io/portofolio-wpu-bootstrap/">View</a>
